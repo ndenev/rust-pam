@@ -2,7 +2,7 @@
 
 name = "pam"
 description = "PAM bindings for Rust"
-version = "0.0.2"
+version = "0.0.3"
 authors = [ "Jesse Hallett <jesse@galois.com>" ]
 documentation = "https://tozny.github.io/rust-pam/pam/"
 homepage = "https://github.com/tozny/rust-pam"
